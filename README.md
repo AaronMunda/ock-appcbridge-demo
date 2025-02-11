@@ -1,6 +1,6 @@
 # OnchainKit Earn Demo
 
-A showcase application demonstrating OnchainKit's Earn and Fund components for DeFi applications.
+A demo application demonstrating OnchainKit's Earn and Fund components — highlighting the top vaults on Base. 
 
 ![App Demo](public/appdemo.gif)
 
