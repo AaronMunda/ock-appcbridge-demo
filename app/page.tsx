@@ -91,14 +91,23 @@ export default function App() {
 
           {/* Desktop Navigation */}
           <nav className="hidden sm:flex items-center space-x-6">
-            <a 
-              href="https://onchainkit.xyz/earn/earn" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-sm hover:text-gray-500 transition-colors"
-            >
-              Docs
-            </a>
+              <div className="flex items-center space-x-6">
+                <a 
+                  href="https://onchainkit.xyz/earn/earn" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="text-sm hover:text-gray-500 transition-colors"
+                >
+                  Docs
+                </a>
+                <a 
+                  href="/savings"
+                  className="px-4 py-2.5 bg-white text-black rounded-lg font-medium hover:bg-gray-100 transition-colors duration-300 group relative overflow-hidden"
+                >
+                  <span className="relative z-10">Try SafeYield →</span>
+                  <div className="absolute inset-0 bg-white transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-300" />
+                </a>
+              </div>
             <div className="relative">
               <button 
                 type="button"

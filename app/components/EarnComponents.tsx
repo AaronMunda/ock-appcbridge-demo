@@ -8,7 +8,7 @@ const vaultAddresses: `0x${string}`[] = [
   '0xc1256Ae5FF1cf2719D4937adb3bbCCab2E00A2Ca',
   '0x0D05e6ec0A10f9fFE9229EAA785c11606a1d13Fb',
   '0x6b13c060F13Af1fdB319F52315BbbF3fb1D88844',
-  '0x5A32099837D89E3a794a44fb131CBbAD41f87a8C'
+  '0xBeEf11eCb698f4B5378685C05A210bdF71093521'
 ];
 
 export default function EarnComponents() {
