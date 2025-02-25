@@ -1,6 +1,6 @@
-# OnchainKit Earn Demo
+# OnchainKit Appchain Bridge Demo
 
-A demo application demonstrating OnchainKit's Earn and Fund components — highlighting the top vaults on Base. 
+A demo application demonstrating OnchainKit's Appchain Bridge component, making it easy to move assets between Base and a Base Appchain.
 
 ![App Demo](public/appdemo.gif)
 
